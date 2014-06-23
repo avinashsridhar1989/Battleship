@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #  blitzavi89
 # ----------------------------------------------------------------
-# SIMPLE 5x5 BATTLE SHAPE GAME WITH GUI
+# SIMPLE 5x5 BATTLE SHIP GAME WITH GUI
 # ----------------------------------------------------------------
 
 import webbrowser
