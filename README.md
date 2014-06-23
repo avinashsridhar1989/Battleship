@@ -2,8 +2,8 @@ READ ME for Battleship Game
 
 COMPILATION INSTRUCTIONS:
 
--- Pull battleship_gui.py to your system.
--- To run program --> python battleship_gui.py
+a) Pull battleship_gui.py to your system.
+b) To run program --> python battleship_gui.py
 
 !! PROGRAM is written to compile with Python v2.7 and is not ported to v3.x !!
 
