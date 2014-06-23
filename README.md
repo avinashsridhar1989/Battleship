@@ -10,14 +10,14 @@ COMPILATION INSTRUCTIONS:
 
 GAME INSTRUCTIONS:
 
-1) 5x5 matrix created for possible locations of ship.
-2) A box that is already marked by user is marked in specific color along with 'X.'
-3) Unmarked box is marked with a 'O.' 
-4) Success means user is rewarded with a hot model on browser. :P
-5) User is given 4-5 hints at max to guess where the ship is!
-6) User is also given 5 turns to guess where the ship is!
+-- 5x5 matrix created for possible locations of ship.
+-- A box that is already marked by user is marked in specific color along with 'X.'
+-- Unmarked box is marked with a 'O.' 
+-- Success means user is rewarded with a hot model on browser. :P
+-- User is given 4-5 hints at max to guess where the ship is!
+-- User is also given 5 turns to guess where the ship is!
 
 POSSIBLE IMPROVEMENT AREAS:
 
-1) Better GUI display interface
-2) More logic in game to make it a bit more intuitive and interesting
+-- Better GUI display interface
+-- More logic in game to make it a bit more intuitive and interesting
