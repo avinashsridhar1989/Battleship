@@ -8,6 +8,8 @@ COMPILATION INSTRUCTIONS:
 
 !! PROGRAM is written to compile with Python v2.7 and is not ported to v3.x !!
 
+!! Make sure Tkinter module is installed forr Python v2.x !!
+
 
 GAME INSTRUCTIONS:
 
