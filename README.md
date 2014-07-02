@@ -1,6 +1,10 @@
+################################################
 READ ME for Battleship Game
+################################################
 
+################################################
 COMPILATION INSTRUCTIONS:
+################################################
 
 1) Pull battleship_gui.py to your system.
 
@@ -10,8 +14,9 @@ COMPILATION INSTRUCTIONS:
 
 !! Make sure Tkinter module is installed forr Python v2.x !!
 
-
+################################################
 GAME INSTRUCTIONS:
+################################################
 
 -- 5x5 matrix created for possible locations of ship.
 
@@ -25,7 +30,9 @@ GAME INSTRUCTIONS:
 
 -- User is also given 5 turns to guess where the ship is!
 
+################################################
 POSSIBLE IMPROVEMENT AREAS:
+################################################
 
 -- Better GUI display interface
 
